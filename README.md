@@ -1,2 +1,1 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sachk&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachk&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/1d3edf6d-86e3-46aa-ae1b-647c5612e576.svg)](https://wakatime.com/@1d3edf6d-86e3-46aa-ae1b-647c5612e576)
